@@ -1,0 +1,30 @@
+.nav-bar {
+  background-color: #2c0e3a;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.logo {
+  margin: 10px;
+  padding: 10px;
+  height: 50px;
+}
+.scoreTimer {
+  display: flex;
+  flex-direction: row;
+  color: white;
+  margin-right: 10px;
+}
+.score {
+  font-size: 16px;
+  color: white;
+  margin-right: 5px;
+}
+.timer {
+  background-color: transparent;
+  height: 30px;
+}
+.time {
+  color: white;
+  font-size: 20px;
+}
